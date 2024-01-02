@@ -1,0 +1,8 @@
+7       // number of cities
+0 10 15 20 25 30 35  // distances from city 1 to cities 1, 2, 3, 4, 5, 6, 7
+10 0 5 15 20 25 30   // distances from city 2 to cities 1, 2, 3, 4, 5, 6, 7
+15 5 0 10 15 20 25   // distances from city 3 to cities 1, 2, 3, 4, 5, 6, 7
+20 15 10 0 5 10 15   // distances from city 4 to cities 1, 2, 3, 4, 5, 6, 7
+25 20 15 5 0 5 10    // distances from city 5 to cities 1, 2, 3, 4, 5, 6, 7
+30 25 20 10 5 0 5    // distances from city 6 to cities 1, 2, 3, 4, 5, 6, 7
+35 30 25 15 10 5 0   // distances from city 7 to cities 1, 2, 3, 4, 5, 6, 7
